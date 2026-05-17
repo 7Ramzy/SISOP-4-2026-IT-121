@@ -365,12 +365,22 @@ int main(int argc, char *argv[])
 kr_ops adalah tabel yang mendaftarkan semua callback ke FUSE — memberitahu FUSE fungsi mana yang dipanggil untuk operasi apa. main() adalah titik masuk program yang memproses argumen ./kenz_rescue amba_files mnt lalu menjalankan FUSE.
 
 #### output
-![]()
+![](https://github.com/7Ramzy/SISOP-4-2026-IT-121/blob/d02246fc2fdd27f8170d438e204ef1c8d8d82777/aset/Screenshot%202026-05-17%20231535.png)
 
-![]()
+Isi dari Flashdisk Amba Files
 
-![]()
+![](https://github.com/7Ramzy/SISOP-4-2026-IT-121/blob/d02246fc2fdd27f8170d438e204ef1c8d8d82777/aset/Screenshot%202026-05-17%20231607.png)
 
-![]()
+Isi dari salah satu file yang ada di Amba Files, Isi Flash Disk dengan tambahan tujuan, dan Passtrough
 
-![]()
+![](https://github.com/7Ramzy/SISOP-4-2026-IT-121/blob/d02246fc2fdd27f8170d438e204ef1c8d8d82777/aset/Screenshot%202026-05-17%20231743.png)
+
+Stat tujuan.txt
+
+![](https://github.com/7Ramzy/SISOP-4-2026-IT-121/blob/d02246fc2fdd27f8170d438e204ef1c8d8d82777/aset/Screenshot%202026-05-17%20231813.png)
+
+Koordinat virtual
+
+![](https://github.com/7Ramzy/SISOP-4-2026-IT-121/blob/d02246fc2fdd27f8170d438e204ef1c8d8d82777/aset/Screenshot%202026-05-17%20231831.png)
+
+Tree
