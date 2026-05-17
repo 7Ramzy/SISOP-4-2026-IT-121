@@ -365,3 +365,12 @@ int main(int argc, char *argv[])
 kr_ops adalah tabel yang mendaftarkan semua callback ke FUSE — memberitahu FUSE fungsi mana yang dipanggil untuk operasi apa. main() adalah titik masuk program yang memproses argumen ./kenz_rescue amba_files mnt lalu menjalankan FUSE.
 
 #### output
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
