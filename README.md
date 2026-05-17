@@ -384,3 +384,6 @@ Koordinat virtual
 ![](https://github.com/7Ramzy/SISOP-4-2026-IT-121/blob/d02246fc2fdd27f8170d438e204ef1c8d8d82777/aset/Screenshot%202026-05-17%20231831.png)
 
 Tree
+
+#### kendala
+Masih agak struggling di bagian command command yang ada di linux ini
